@@ -30,7 +30,7 @@ Integrating this dataset with other external datasets such IMDB ratings, rotten 
 * If Netflix has been increasing focusing on TV rather than movies in recent years.
 * Clustering similar content by matching tet based features
 
-*Fields*         *Description*
+*Fields*   -      *Description*
 
 * show_id - Unique ID for every Movie/Tv Show
 * type - Identifier A movie or TV show
