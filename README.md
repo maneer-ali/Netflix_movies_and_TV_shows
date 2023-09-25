@@ -19,6 +19,33 @@ Employing K-means Clustering and Agglomerative Hierarchical Clustering algorithm
 Developing a content-based recommender system using cosine similarity matrix to provide personalized recommendations to users and reduce subscriber churn for Netflix.
 This comprehensive analysis and recommendation system are expected to enhance user satisfaction, leading to improved retentation rates for Netflix.
 
+# Problem Statement
+
+The dataset consists of tv shows and movies available on Neytflix as of 2019. The dataset is collected from flixable which is a third party Netfli search engine. In 2018, they released an interesting report which shows that the number of tv shows on Netflix has nearly tripled since 2010. The streaming services number of movies has decreased by more than 2000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset. 
+
+Integrating this dataset with other external datasets such IMDB ratings, rotten tomatoes can also provide many interesting findings.
+
+* Exploratory Data Analysis
+* Understanding what type of content is available in different countries.
+* If Netflix has been increasing focusing on TV rather than movies in recent years.
+* Clustering similar content by matching tet based features
+
+*Fields*         *Description*
+
+* show_id - Unique ID for every Movie/Tv Show
+* type - Identifier A movie or TV show
+* title - Title of the movie/show
+* director - Director of the show
+* cast - Actors involved
+* Country - Country of production
+* date_added - Date it was added on Netfli
+* release_year - Actual release year of the show
+* rating - TV rating of the show
+* duration - Total duration in minutes or number of seasons
+* listed_in - Genre
+* Description - The summary description
+
+
 # Let's Begin !
 # 1. Know Your Data
 ## Import Libraries
